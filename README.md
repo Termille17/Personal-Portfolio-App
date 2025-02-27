@@ -2,7 +2,7 @@
 
 # 🌐 Personal Portfolio Website  
 
-A modern and responsive **personal portfolio website** showcasing my skills, projects, and experience. Built with **HTML, CSS, JavaScript, React/Angular**, and fully optimized for **performance and responsiveness**.  
+A modern and responsive **personal portfolio website** showcasing my skills, projects, and experience. Built with **HTML, CSS, JavaScript**, and fully optimized for **performance and responsiveness**.  
 
 ## 🚀 Features  
 ✅ **About Me** – Introduction, skills, and experience  
